@@ -461,7 +461,7 @@ array_push($side_menu, array( 'name' => 'Log Out', 'icon' => ' fas  fa-sign-out-
 
 $sys = array();
 
-$sys['APP_NAME']                                   = 'CHMS';
+$sys['APP_NAME']                                   = 'Click N BUY';
 $sys['APP_F_NAME']                                 = 'CHMS';
 $sys['APP_L_NAME']                                 = 'CHMS';
 $sys['System Name']                                = 'CHMS Admin';
