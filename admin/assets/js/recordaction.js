@@ -1,9 +1,13 @@
 function delete_record(...args) {
+
+
   var id = args[0] !== undefined ? args[0] : 0;
   var tbl = args[1] !== undefined ? args[1] : "";
   var id_name = args[2] !== undefined ? args[2] : "";
   var href_ = args[3] !== undefined ? args[3] : "/";
   var re_direct_para = args[4] !== undefined ? args[4] : ""
+
+
 
 
   swal({
@@ -33,6 +37,7 @@ function delete_record(...args) {
           data: data,
 
           success: function (response) {
+          
           
             if (re_direct_para != "") {
               window.location.href = href_ + "?" + re_direct_para;

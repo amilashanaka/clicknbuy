@@ -1,5 +1,5 @@
 <!-- Main Footer -->
-<footer class="main-footer"> <strong>Copyright &copy; <?= date("Y") ?> <a href="  URL "><?= $lang['APP_NAME'] ?></a>.</strong> All rights reserved.
+<footer class="main-footer"> <strong>Copyright &copy; <?= date("Y") ?> <a href="<?= $_ENV['APP_URL'] ?>"><?= $_ENV['APP_NAME'] ?></a>.</strong> All rights reserved.
   <div class="float-right d-none d-sm-inline-block"> <b>Version</b> 3.0.2 </div>
 </footer>
 </div>

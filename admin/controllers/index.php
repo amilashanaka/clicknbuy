@@ -5,6 +5,10 @@ spl_autoload_register(function ($class) {
     include_once  __DIR__ . "/$class.php";
 });
 require_once "config.php";
+include_once  __DIR__ . '/env.php';
+
+include_once  '../inc/auth.php';
+
 // Db instant
 $database = new Database(DB_HOST, DB_NAME, DB_USER, DB_PASS);
 // Controllers intialized

@@ -1,6 +1,9 @@
 <?php
-include_once '../common.php';
-include_once './session.php';
+//include_once '../common.php';
+include_once '../inc/session.php';
+include_once '../inc/functions.php';
+include_once '../inc/sys.php';
+include_once './controllers/index.php';
 
 if (isset($_SESSION['login'])) {
     header('Location: dashboard');
@@ -26,10 +29,7 @@ if (isset($_SESSION['login'])) {
 
 </head>
 
-<?php
-include_once './session.php';
-include_once '../common.php';
-?>
+
 
 <?php
 
@@ -125,7 +125,7 @@ if (isset($_GET['error'])) {
 
                         <div class="card-footer py-3 border-0">
                             <div class="text-center">
-                                <strong>Copyright &copy; <?= date("Y") ?> <a href="  URL "><?= $lang['APP_NAME'] ?></a>.</strong> All rights reserved.
+                                <strong>Copyright &copy; <?= date("Y") ?> <a href="<?= $_ENV['APP_URL'] ?>"><?= $_ENV['APP_NAME'] ?></a>.</strong> All rights reserved.
                                 <div class="float-right d-none d-sm-inline-block"> <b>Version</b> 3.0.2 </div>
                             </div>
                         </div>

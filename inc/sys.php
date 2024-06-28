@@ -1,5 +1,37 @@
 <?php
 
+
+
+$infobox=array(
+    '1'=>array(
+        'caption'=>'ToDos',
+        'icon'=>'fas fa-calendar-check',
+        'bg'=>'bg-info',
+        'url'=>'todo_list',
+    ),
+    '2'=>array(
+        'caption'=>'Reports',
+        'icon'=>'fas fa-heartbeat',
+        'bg'=>'bg-danger',
+        'url'=>'reports',
+    ),
+    '3'=>array(
+        'caption'=>'Medication',
+        'icon'=>'fas fa-pills',
+        'bg'=>'bg-success',
+        'url'=>'med_list',
+    ),
+    '4'=>array(
+        'caption'=>'Staff',
+        'icon'=>'fas fa-user-md ',
+        'bg'=>' bg-warning',
+        'url'=>'admin_list',
+    ),
+
+);                                     
+
+
+
 // System configeration
 $notification_icons=array(
     'To-Dos'=>'fas fa-boxes',
@@ -7,80 +39,17 @@ $notification_icons=array(
 );
 $notification_icons_json = json_encode($notification_icons); // to javascript
 
-$med_page_elements = array(
-    'heading' => 'Medication',
-    'form_action' => 'data/register_med.php',
-    'inputs' => array(
-        'id' => array(
-            'type' => 'h',
-            'value' => '',
-        ),
-        'event_date' => array(
-            'type' => 'h',
-            'value' => '',
-        ),
-        'done_by' => array(
-            'type' => 'h',
-            'value' => '',
-        ),
-        'f1' => array(
-            'label' => 'Name',
-            'type' => 'text',
-            'skip' => false,
-            'div_class' => 'col-lg-12 col-md-12 form-group',
-        ),
-        'f2' => array(
-            'label' => 'Client',
-            'type' => 'text',
-            'class' => 'form-control',
-            'value' => '',
-            'items' => array(),
-            'skip' => false,
-            'div_class' => 'col-lg-12 col-md-12 form-group',
-        ),
-        'f3' => array(
-            'label' => 'Dose',
-            'type' => 'text',
-            'class' => 'form-control',
-            'value' => '',
-            'items' => array(),
-            'skip' => false,
-            'div_class' => 'col-lg-12 col-md-12 form-group',
-        ),
-        'f4' => array(
-            'label' => 'frequency',
-            'type' => 'text',
-            'required' => 'required',
-            'class' => 'form-control',
-            'value' => '',
-            'items' => array(),
-            'skip' => false,
-            'div_class' => 'col-lg-12 col-md-12 form-group',
-        ),
-
-        'f5' => array(
-            'label' => 'total_dose',
-            'type' => 'number',
-            'required' => 'required',
-            'class' => 'form-control',
-            'value' => '',
-            'items' => array(),
-            'skip' => false,
-            'div_class' => 'col-lg-12 col-md-12 form-group',
-        ),
-
-        'f6' => array(
-            'label' => 'dose_given',
-            'type' => 'number',
-            'required' => 'required',
-            'class' => 'form-control',
-            'value' => '',
-            'items' => array(),
-            'skip' => false,
-            'div_class' => 'col-lg-12 col-md-12 form-group',
-        ),
-
+$admin_list_page_element = array(
+    'heading' => 'Admin List',
+    'new' => 'admin',
+    'table' => array(
+        'th' => array('User Name', 'e-mail','Mobile number','Join Date','Action'           
+        ),      
     ),
+    'tbl'=>'admins',
+    'redirect'=>'admin_list',
+    't1'=>'Admin User',
+    't2'=>'list',
 );
 
 

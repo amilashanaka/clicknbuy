@@ -1,4 +1,10 @@
 <?php
+echo '<input type="hidden" name="csrf_token" value="' . $_SESSION['csrf_token'] . '"> ';
+
+
+
+
+
 if ($form_config['inputs'] != null) {
     foreach ($form_config['inputs'] as $key => $input) {
         // Check if the input should be skipped
@@ -154,3 +160,4 @@ if ($form_config['inputs'] != null) {
     }
 }
 ?>
+

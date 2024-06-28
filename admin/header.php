@@ -1,6 +1,7 @@
 <?php
+include_once '../inc/auth.php';
 include_once './session.php';
-include_once '../common.php';
+#include_once '../common.php';
 include_once '../inc/functions.php';
 include_once '../inc/sys.php';
 include_once './controllers/index.php';
