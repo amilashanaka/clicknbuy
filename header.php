@@ -195,7 +195,7 @@
                                 <div class="menu-heading js-nav-menu">ALL CATEGORIES</div>
                                 <div class="vertical-wrapper js-dropdown-menu js-dropdown-open active">
                                     <ul class="level0">
-                                        <li><a href="#">camera</a><span class="icon icon-camera"></span></li>
+                                        <li><a href="#">Photo</a><span class="icon icon-camera"></span></li>
                                         <li><a href="#">laptop</a><span class="icon"></span></li>
                                         <li><a href="#">mobile phone</a><span class="icon"></span></li>
                                         <li class="game">
