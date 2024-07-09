@@ -43,7 +43,7 @@
     .btn-getit {
         padding: 5px 47px;
         border: 2px solid $border-main-color;
-        color: #6bce04;
+        color: #00a0e3;
         font: 16px/36px "Poppins", sans-serif;
         @include border-radius(4px);
         &:hover {
@@ -147,7 +147,7 @@
     font-size: 14px;
     margin: 10px 0 0 0;
     a {
-        color: #6bce04;
+        color: #00a0e3;
     }
 }
 
@@ -289,7 +289,7 @@
                     margin-top: 10px;
                 }
                 .addcart-ver2 {
-                    background: #6bce04;
+                    background: #00a0e3;
                     display: inline-block;
                     position: relative;
                     font: 700 12px/20px $base-font-family;
@@ -354,7 +354,7 @@
             margin-top: 10px;
         }
         .addcart-ver2 {
-            background: #6bce04;
+            background: #00a0e3;
             display: inline-block;
             position: relative;
             font: 700 12px/20px $base-font-family;
@@ -553,7 +553,7 @@
     .brandname {
         margin-bottom: 10px;
         strong {
-            color: #6bce04;
+            color: #00a0e3;
             margin-bottom: 10px;
         }
     }
@@ -610,7 +610,7 @@
                 text-transform: uppercase;
                 margin-left: 10px;
                 &.addcart-ver2 {
-                    background: #6bce04;
+                    background: #00a0e3;
                     position: relative;
                     font: 700 13px/20px $base-font-family;
                     color: $primary-color;

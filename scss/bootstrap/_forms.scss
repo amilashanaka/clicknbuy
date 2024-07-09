@@ -77,7 +77,7 @@ input[type="file"]:focus,
 input[type="radio"]:focus,
 input[type="checkbox"]:focus {
   @include tab-focus;
-  outline-color:#6bce04;
+  outline-color:#00a0e3;
 }
 
 // Adjust output element

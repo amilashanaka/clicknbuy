@@ -8,7 +8,7 @@
     display: inline-block;
     @include border-radius(0);
     padding: 13px 43px;
-    background: #6bce04;
+    background: #00a0e3;
     font-size: 24px;
     @media(max-width: $screen-xs) {
         font-size:12px;
@@ -56,7 +56,7 @@
 }
 
 .green {
-    background: #6bce04;
+    background: #00a0e3;
 }
 
 //========== HOMEPAGE 2=========/

@@ -220,7 +220,7 @@
 
 .aside-shopping-cart-total ul li .shipping input[type="radio"]:checked+label:before {
     content: "\f192";
-    color: #6bce04;
+    color: #00a0e3;
 }
 
 .aside-shopping-cart-total ul li .shipping input {
@@ -231,7 +231,7 @@
     display: inline-block;
 
     padding: 30px 0 30px 97px;
-    color: #6bce04;
+    color: #00a0e3;
 }
 
 .aside-shopping-cart-total ul li .big-total-number {
@@ -295,7 +295,7 @@
 .aside-order .order-transfer .tabs li.active h4 {
     &:before {
         content: "\f192";
-        color: #6bce04;
+        color: #00a0e3;
         font-size: 16px;
     }
 }
@@ -321,7 +321,7 @@
     }
     .label-shipping {
         font: bold 14px $font-custom;
-        color: #6bce04;
+        color: #00a0e3;
         text-transform: uppercase;
     }
     .a-right {
@@ -527,7 +527,7 @@ table.table.table-total tbody tr td {
 
 .coupon-code {
     font: bold 14px $font-custom;
-    color: #6bce04;
+    color: #00a0e3;
     text-decoration: underline;
     &:hover {
         color: #333;
@@ -676,7 +676,7 @@ table.table.table-total tbody tr td {
         font: 700 24px/30px $base-font-family;
         color: #333;
         span {
-            color: #6bce04;
+            color: #00a0e3;
         }
     }
 }
