@@ -7,7 +7,8 @@
                         </button>
                         <div class="collapse navbar-collapse" id="myNavbar">
                             <ul class="menubar js-menubar">
-                                <li class=" menu-homepage menu-item-has-child dropdown">
+                                <li><a href="/"><i class="fa fa-home"></i>home</a></li>
+                                <!-- <li class=" menu-homepage menu-item-has-child dropdown">
                                     <a href="#" title="Home"><i class="fa fa-home"></i>home</a>
                                     <span class="plus js-plus-icon"></span>
                                     <ul class="dropdown-menu menu-level">
@@ -18,7 +19,7 @@
                                         <li><a href="home-5.html" title="home 5">Home 5</a></li>
                                         <li><a href="home-6.html" title="home 6">Home 6</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
                                 <li class="menu-collection-page menu-item-has-child dropdown">
                                     <a href="#" title="Marketplace">marketplace</a>
                                     <span class="plus js-plus-icon"></span>
