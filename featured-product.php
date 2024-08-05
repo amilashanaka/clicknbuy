@@ -19,7 +19,7 @@
                             <div class="col-md-15 col-sm-4 col-xs-6">
                                 <div class="product-item ver2">
                                     <div class="prod-item-img bd-style-2">
-                                        <a href="#"><img src="img/products/smarphone.jpg" alt="images" class="img-responsive"></a>
+                                        <a href="#"><img src="img/products/feature1.jpeg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                         <div class="button">
                                             <a href="#" class="addcart">ADD TO CART</a>
                                             <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -44,7 +44,7 @@
                             <div class="col-md-15 col-sm-4 col-xs-6">
                                 <div class="product-item ver2">
                                     <div class="prod-item-img bd-style-2">
-                                        <a href="#"><img src="img/products/sound3.jpg" alt="images" class="img-responsive"></a>
+                                        <a href="#"><img src="img/products/feature2.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                         <div class="button">
                                             <a href="#" class="addcart">ADD TO CART</a>
                                             <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -70,7 +70,7 @@
                             <div class="col-md-15 col-sm-4 col-xs-6">
                                 <div class="product-item ver2">
                                     <div class="prod-item-img bd-style-2">
-                                        <a href="#"><img src="img/products/tivi.jpg" alt="images" class="img-responsive"></a>
+                                        <a href="#"><img src="img/products/feature3.avif" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                         <div class="button">
                                             <a href="#" class="addcart">ADD TO CART</a>
                                             <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -96,7 +96,7 @@
                             <div class="col-md-15 col-sm-4 col-xs-6">
                                 <div class="product-item ver2">
                                     <div class="prod-item-img bd-style-2">
-                                        <a href="#"><img src="img/products/sony.jpg" alt="images" class="img-responsive"></a>
+                                        <a href="#"><img src="img/products/feature4.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                         <div class="button">
                                             <a href="#" class="addcart">ADD TO CART</a>
                                             <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -121,7 +121,7 @@
                             <div class="col-md-15 col-sm-4 col-xs-6">
                                 <div class="product-item ver2">
                                     <div class="prod-item-img bd-style-2">
-                                        <a href="#"><img src="img/products/macbook.jpg" alt="images" class="img-responsive"></a>
+                                        <a href="#"><img src="img/products/feature5.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                         <div class="button">
                                             <a href="#" class="addcart">ADD TO CART</a>
                                             <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>

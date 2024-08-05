@@ -6,7 +6,7 @@
                     <div class="col-md-7 col-sm-12">
                         <div class="product-item ver4 top-inner">
                             <div class="prod-item-img">
-                                <a href="#"><img src="img/products/onsale1.jpeg"  alt="images" class="img-reponsive"></a>
+                                <a href="#"><img src="img/products/onsale1.jpg"  alt="images" class="img-reponsive"></a>
                                 <div class="prod-choose">
                                     <div class="prod-color">
                                         <span class="dot"></span>
@@ -68,7 +68,7 @@
                         </div>
                         <div class="product-item ver1 margin-r ">
                             <div class="prod-item-img set--width">
-                                <a class="image" href="#"><img src="img/products/onsale3.webp"  alt="images" class="img-responsive"></a>
+                                <a class="image" href="#"><img src="img/products/onsale3.avif"  alt="images" class="img-responsive"></a>
                             </div>
                             <div class="prod-info ver1">
                                 <h3><a href="#" title="">Motorola Moto 360 Sport - 45mm, Black</a></h3>
