@@ -195,11 +195,11 @@
                                 <div class="menu-heading js-nav-menu">ALL CATEGORIES</div>
                                 <div class="vertical-wrapper js-dropdown-menu js-dropdown-open active">
                                     <ul class="level0">
-                                        <li><a href="#">Photo</a><span class="icon icon-camera"></span></li>
-                                        <li><a href="#">laptop</a><span class="icon"></span></li>
-                                        <li><a href="#">mobile phone</a><span class="icon"></span></li>
+                                        <li><a href="#">Fresh Produce</a><span class="icon icon-camera"></span></li>
+                                        <li><a href="#">Pantry Staples</a><span class="icon"></span></li>
+                                        <li><a href="#">Frozen Foods</a><span class="icon"></span></li>
                                         <li class="game">
-                                            <a href="#">game control</a>
+                                            <a href="#">Dairy & Bakery</a>
                                             <div class="dropdown-content">
                                                 <ul class="level1">
                                                     <li class="sub-menu col-3">
@@ -245,11 +245,11 @@
                                                 </div>
                                             </div>
                                         </li>
-                                        <li><a href="#">headphone</a></li>
-                                        <li><a href="#">mouse</a></li>
-                                        <li><a href="#">washing machine</a></li>
-                                        <li><a href="#">air conditional</a></li>
-                                        <li><a href="#">accessories</a></li>
+                                        <li><a href="#">Snacks & Treats</a></li>
+                                        <li><a href="#">Beverages</a></li>
+                                        <li><a href="#">Household Essentials</a></li>
+                                        <li><a href="#">Special Diets/Categories </a></li>
+                                        <li><a href="#">Meal Inspiration/Recipes</a></li>
                                         <li><a href="#">others</a></li>
                                         <li class="sub-form-li">
                                             <div>

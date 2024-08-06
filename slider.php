@@ -9,36 +9,36 @@
                                 <div class="slide-img">
                                     <img src="img/slider/slider1.jpg" style="width:870px; height:490px" alt="images" class="img-reponsive">
                                     <div class="slide-content">
-                                        <h5 class="brand">Sony ALPHA</h5>
-                                        <h3><span class="strong">Perfection</span><br>for all</h3>
-                                        <p>Dolor sit amet, consecte, adipiscing.</p>
+                                    <h5 class="brand">Groceries Made Easy</h5> 
+                                    <h3><span class="strong">Save Time, Save Money</span><br>With Our Great Deals</h3>
+                                    <p>Shop our convenient online store for everyday essentials and incredible savings.</p>
                                     </div>
                                     <a href="#" class="slide-button">shop now</a>
                                 </div>
                                 <div class="slide-img">
                                     <img src="img/slider/slider2.jpg" style="width:870px; height:490px" alt="images" class="img-reponsive">
-                                    <div class="slide-content ver2">
-                                        <h5 class="brand">Sony ALPHA</h5>
-                                        <h3><span class="strong">Perfection</span><br>for all</h3>
-                                        <p>Dolor sit amet, consecte, adipiscing.</p>
+                                    <div class="slide-content">
+                                    <h5 class="brand">Groceries Made Easy</h5> 
+                                    <h3><span class="strong">Save Time, Save Money</span><br>With Our Great Deals</h3>
+                                    <p>Shop our convenient online store for everyday essentials and incredible savings.</p>
                                     </div>
                                     <a href="#" class="slide-button">shop now</a>
                                 </div>
                                 <div class="slide-img">
                                     <img src="img/slider/slider3.jpg" style="width:870px; height:490px" alt="images" class="img-reponsive">
-                                    <div class="slide-content ver2">
-                                        <h5 class="brand">Sony ALPHA</h5>
-                                        <h3><span class="strong">Perfection</span><br>for all</h3>
-                                        <p>Dolor sit amet, consecte, adipiscing.</p>
+                                    <div class="slide-content">
+                                    <h5 class="brand">Groceries Made Easy</h5> 
+                                    <h3><span class="strong">Save Time, Save Money</span><br>With Our Great Deals</h3>
+                                    <p>Shop our convenient online store for everyday essentials and incredible savings.</p>
                                     </div>
                                     <a href="#" class="slide-button">shop now</a>
                                 </div>
                                 <div class="slide-img">
                                     <img src="img/slider/slider4.jpg" style="width:870px; height:490px" alt="images" class="img-reponsive">
-                                    <div class="slide-content ver2">
-                                        <h5 class="brand">Sony ALPHA</h5>
-                                        <h3><span class="strong">Perfection</span><br>for all</h3>
-                                        <p>Dolor sit amet, consecte, adipiscing.</p>
+                                    <div class="slide-content">
+                                    <h5 class="brand">Groceries Made Easy</h5> 
+                                    <h3><span class="strong">Save Time, Save Money</span><br>With Our Great Deals</h3>
+                                    <p>Shop our convenient online store for everyday essentials and incredible savings.</p>
                                     </div>
                                     <a href="#" class="slide-button">shop now</a>
                                 </div>
