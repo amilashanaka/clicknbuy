@@ -17,7 +17,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/camera.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular1.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -43,7 +43,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/lens.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular2.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -68,7 +68,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/ear.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular3.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -93,7 +93,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/watch.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular4.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -119,7 +119,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/canonpixma.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular5.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -145,7 +145,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/sound4.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular6.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -176,7 +176,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/camera.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular4.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -202,7 +202,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/lens.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular3.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -227,7 +227,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/ear.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular1.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -252,7 +252,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/watch.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular6.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -278,7 +278,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/canonpixma.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular5.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
@@ -304,7 +304,7 @@
                                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 no-padding-right">
                                         <div class="product-item ver2">
                                             <div class="prod-item-img bd-style-2">
-                                                <a href="#"><img src="img/products/sound4.jpg" alt="images" class="img-responsive"></a>
+                                                <a href="#"><img src="img/products/popular3.jpg" style="width:200px; height:200px" alt="images" class="img-responsive"></a>
                                                 <div class="button">
                                                     <a href="#" class="addcart addcart-v2">ADD TO CART</a>
                                                     <a href="#" class="view"><i class="fa fa-eye" aria-hidden="true"></i></a>
