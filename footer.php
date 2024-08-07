@@ -214,7 +214,7 @@
         </div>
         <div class="copyright">
             <div class="container">
-                <span> <strong>Copyright &copy; <?= date("Y") ?> <a href="<?= $_ENV['MAINTAINER_URL'] ?>"><?= $_ENV['MAINTAINER'] ?></a>.</strong> All rights reserved.</span>
+                <span>© <a href="#" title="">ClickBuy</a> - All Rights Reserved.</span>
                 <ul class="payment">
                     <li><a href="#"><img src="img/paypal.png" alt="images" class="img-responsive"></a></li>
                     <li><a href="#"><img src="img/visa.png" alt="images" class="img-responsive"></a></li>

@@ -21,7 +21,7 @@
                                     </ul>
                                 </li> -->
                                 <li class="menu-collection-page menu-item-has-child dropdown">
-                                    <a href="#" title="Marketplace">marketplace</a>
+                                    <a href="#" title="Marketplace">shop</a>
                                     <span class="plus js-plus-icon"></span>
                                     <ul class="dropdown-menu menu-level">
                                         <li><a href="product-collection.html" title="shop collection">Shop Collection</a></li>

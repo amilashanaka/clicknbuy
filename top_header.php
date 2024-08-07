@@ -1,16 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php
-//include_once '../common.php';
-include_once './inc/session.php';
-include_once './inc/functions.php';
-include_once './inc/sys.php';
-include_once './admin/controllers/index.php';
-
-
-
-?>
+<?php include_once 'inc/sys.php' ; ?>
 
 <head>
     <meta charset="utf-8">
